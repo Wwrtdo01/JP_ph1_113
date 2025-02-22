@@ -20,15 +20,13 @@ public class StudentSystemDemo {
 
 		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
 		
-<<<<<<< HEAD
 		
 		int a = 5;
 		int b = 2;
 		System.out.println(5/2);
 		System.out.println("hhhhhhhhhhhhhhhhhhhhhhhh");
-=======
 		System.out.println("YEEEEEEEES");
->>>>>>> branch 'main' of https://github.com/Wwrtdo01/JP_ph1_113.git
+		System.out.println("hhhhhhhhhhhhhhhhhhhhhhhh: =?"+a/b);
 
 		
 		

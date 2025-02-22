@@ -11,19 +11,21 @@ public class StudentSystemDemo {
 		System.out.println("ABDULLAH , AHMED");
 		System.out.println(" , AHMED");
 		System.out.println(" , AHMED");
-<<<<<<< HEAD
 		System.out.println("fjfjfjt");
 		System.out.println("aaaa");
-=======
 		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
 
 		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
 
 		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
+		
+		
+		int a = 5;
+		int b = 2;
+		System.out.println(5/2);
 
 		
->>>>>>> branch 'main' of https://github.com/Wwrtdo01/JP_ph1_113.git
 		
 	}
 

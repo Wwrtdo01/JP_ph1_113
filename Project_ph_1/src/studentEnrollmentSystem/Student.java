@@ -9,6 +9,7 @@ public class Student {
 		System.out.println(7); //rtreaggaz
 		System.out.println("jfhjfjfijf");
 		System.out.println("jfhjfjfijf");
+		System.out.println("jfhjffijf");
 		System.out.println("jfhjfjfijf");
 		
 	}

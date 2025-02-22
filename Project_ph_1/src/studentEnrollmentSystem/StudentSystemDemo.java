@@ -11,8 +11,19 @@ public class StudentSystemDemo {
 		System.out.println("ABDULLAH , AHMED");
 		System.out.println(" , AHMED");
 		System.out.println(" , AHMED");
+<<<<<<< HEAD
 		System.out.println("fjfjfjt");
 		System.out.println("aaaa");
+=======
+		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
+		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
+
+		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
+
+		System.out.println("The best team ever ever ever!!!!!!!!!!!!!!!!!!!!!!!!");
+
+		
+>>>>>>> branch 'main' of https://github.com/Wwrtdo01/JP_ph1_113.git
 		
 	}
 

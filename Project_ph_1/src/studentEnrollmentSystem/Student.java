@@ -7,5 +7,6 @@ public class Student {
 		System.out.println("123");
 		System.out.println("456"); //test
 		System.out.println(7); //rtreaggaz
+		System.out.println("test");
 	}
 }

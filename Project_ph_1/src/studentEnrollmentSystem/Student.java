@@ -6,5 +6,6 @@ public class Student {
 	public void testMethod() {
 		System.out.println("123");
 		System.out.println("456"); //test
+		System.out.println(7); //rtreaggaz
 	}
 }

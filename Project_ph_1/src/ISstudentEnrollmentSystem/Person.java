@@ -17,7 +17,7 @@ public class Person {
     }
 
     public String toString() {
-        return "Name: " + fName + " " + lName + ", Phone: " + phoneNum + ", Email: " + email + ", SSN: " + ssn + ", Location: " + location;
+        return "Name: " + fName + " " + lName + ", Phone: " + phoneNum + ", email: " + email + ", SSN: " + ssn + ", Location: " + location;
     }
 
 }

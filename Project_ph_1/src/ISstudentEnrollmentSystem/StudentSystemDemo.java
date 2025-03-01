@@ -1,4 +1,4 @@
-package studentEnrollmentSystem;
+package ISstudentEnrollmentSystem;
 
 public class StudentSystemDemo {
 

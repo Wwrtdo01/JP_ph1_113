@@ -17,6 +17,5 @@ Student(String firstN,String lN, int phoneNum,String email, int ssn, String loca
 }
 
 
-
 	}
 

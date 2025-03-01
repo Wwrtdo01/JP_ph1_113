@@ -16,6 +16,5 @@ Student(String firstN,String lN, int phoneNum,String email, int ssn, String loca
 	id_S = id; GPA = gpa; this.uniEmail = uniEmail; SATdeg = sat ; SAATdeg = saat;
 }
 
-
 	}
 

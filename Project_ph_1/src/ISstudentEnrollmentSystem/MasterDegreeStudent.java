@@ -1,6 +1,6 @@
 package ISstudentEnrollmentSystem;
 
-public class MasterDegreeStudent extends PassDegre {
+public class MasterDegreeStudent implements PassDegree {
 	public MasterDegreeStudent() {
         super(70);
     }

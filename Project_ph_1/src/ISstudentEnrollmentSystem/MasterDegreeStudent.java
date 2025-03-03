@@ -1,11 +1,10 @@
 package ISstudentEnrollmentSystem;
 
-public class MasterDegreeStudent implements PassDegree {
+public class MasterDegreeStudent extends Student {
+	
 	public MasterDegreeStudent() {
     }
 
-    public double calcPassDegree() {
-        return 70.0;
-    }
+ 
 
 }

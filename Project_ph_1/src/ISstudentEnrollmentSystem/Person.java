@@ -6,7 +6,10 @@ public class Person {
     protected String email;
     protected int ssn;
     protected String location;
-
+    
+    //constructor
+    Person(){}
+    
     public Person(String fName , String lName , int phoneNum , String email , int ssn , String location) {
         this.fName = fName;
         this.lName = lName;

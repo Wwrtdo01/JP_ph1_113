@@ -11,8 +11,12 @@ protected double SATdeg,SAATdeg;  //  SAT: قدرات. SAAT : تحصيلي.
 
 
 //constructors 
+Student(){}
+
+Student(String fN,String lN,int phN,int id, double gpa, String uniEmail){id_S = id; GPA = gpa; this.uniEmail = uniEmail; fName = fN; lName = lN; phoneNum = phN; }
 
 Student(String firstN,String lN, int phoneNum,String email, int ssn, String location ,int id, double gpa, String uniEmail, double sat, double saat){
+	super(firstN,lN,phoneNum,email,ssn,location);
 	id_S = id; GPA = gpa; this.uniEmail = uniEmail; SATdeg = sat ; SAATdeg = saat;
 }
 

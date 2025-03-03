@@ -3,18 +3,14 @@ package ISstudentEnrollmentSystem;
 public class BachelorDegreeStudent extends Student  {
 	
 	
-	BachelorDegreeStudent(){}
-	
-	public BachelorDegreeStudent(String fN, String lN, int phNum, int id, double gpa, String uniEmail) {
-		
-	}
 
-    public double calcPassDegree() {
-        return 60.0;
-    }
 	
-    public String getSectionDoctor() {
-    	
-    }
+	 public BachelorDegreeStudent(String fName, String lName, String uniEmail, double gpa, double sat, double saat) {
+	        super(fName, lName, uniEmail, gpa, sat, saat);
+	    }
+
+
+	
+ 
 
 }

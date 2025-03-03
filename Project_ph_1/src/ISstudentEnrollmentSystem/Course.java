@@ -6,6 +6,8 @@ public class Course {
 	    private int courseHours;   // Credit hours for the course
 
 	    // Constructor
+	    public Course(Course c ) {c.courseHours = courseHours; c.courseName = courseName;}
+	    
 	    public Course(String courseName, String courseId, int courseHours) {
 	        this.courseName = courseName;
 	        this.courseId = courseId;
